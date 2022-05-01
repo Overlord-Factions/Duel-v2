@@ -77,7 +77,7 @@
         </repository>
         <repository>
             <id>private</id>
-            <url>http://51.254.247.74:8081/repository/private/</url>
+            <url>https://repo.zachfr.com/repository/private/</url>
         </repository>
         <repository>
             <id>placeholderapi</id>
@@ -93,7 +93,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.16.4-R0.1-SNAPSHOT</version>
+            <version>1.18-R0.1-SNAPSHOT</version>
             <!-- <version>1.8.8-R0.1-SNAPSHOT</version> -->
             <scope>provided</scope>
         </dependency>
@@ -101,7 +101,7 @@
         <dependency>
             <groupId>me.zachary</groupId>
             <artifactId>ZachCore</artifactId>
-            <version>0.7.18</version>
+            <version>0.7.25</version>
         </dependency>
         <!-- PlaceholderAPI -->
         <dependency>
